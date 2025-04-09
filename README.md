@@ -1,5 +1,6 @@
 # Currently
 training the model
+creating UI
 
 # Tools 
 *subject to change
