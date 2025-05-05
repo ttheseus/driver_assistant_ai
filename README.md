@@ -22,3 +22,4 @@ Training the model & creating UI
 # Resources Used
 https://github.com/udacity/self-driving-car
 possibly reference https://github.com/commaai/openpilot
+python-OBD - library for reading speed, RPM, throttle
